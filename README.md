@@ -42,6 +42,9 @@ ARMA, this level of risk increase may not be tolerable.
 
 
 
+
+
+
 ## Linear Regression
 ![Predictions](Images/returns_graph.png)
 
