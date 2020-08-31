@@ -16,8 +16,6 @@ out at +/-$300.  However, it is difficult to ascertain a consistent upward
 trend based on price history from 2015 to the present.
 
 
-
-
 ![ARMA](Images/arma_results.png)
 ![ARIMA](Images/arima_results.png)
 
