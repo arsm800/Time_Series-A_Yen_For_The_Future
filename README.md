@@ -7,6 +7,7 @@ models, I would not recommend buying.
 
 ![Trend](Images/trend_graph.png)
 ![Noise](Images/noise_graph.png)
+
 The Hodrick-Prescott filter illustrates both trend and noise components of the 
 price movement. The noise consistently sits between +$100 and -$100, topping 
 out at +/-$300.  However, it is difficult to ascertain a consistent upward 
@@ -15,6 +16,7 @@ trend based on price history from 2015 to the present.
 
 ![ARMA](Images/arma_results.png)
 ![ARIMA](Images/arima_results.png)
+
 To take the analysis further, we projected future prices using both ARMA and 
 ARIMA modelling techniques.  In comparing each of their 5-day price forecasts,
 ARMA starts at a return of 0.012 and levels off at 0.006.  ARIMA starts off at
@@ -23,11 +25,14 @@ slightly better model--it's AIC, BIC, and HQIC are all slightly lower than
 ARIMA's AIC, BIC, and HQIC.  On this evidence alone, the ARMA model suggests
 buying would result in a short-term profit.
 
+
 ![GARCH](Images/volatility.png)
+
 The final component of our time series analysis was volatility measurement via
 the GARCH model.  The annualized 5-day forecast shows volatility increasing 
 from 7.44 to 7.60.  Given a small projected percentage increase projected in 
 ARMA, this level of risk increase may not be tolerable.
+
 
 
 
