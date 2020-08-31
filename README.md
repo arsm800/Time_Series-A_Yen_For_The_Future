@@ -5,7 +5,7 @@
 
 
 ## Linear Regression
-
+![Predictions](Images/returns_graph.png)
 
 Utilizing a regression model based on X and y training data and applying it to 
 X testing data, there does not appear to be much correlation between predicted 
@@ -16,11 +16,11 @@ go in opposite directions.  Furthermore, the actual returns vary from about
 
 
 ### In-Sample Performance
-
+![in_sample](Images/in_sample_error.png)
 
 
 ### Out-of-Sample Performance
-
+![in_sample](Images/out_of_sample_error.png)
 
 
 Overall, this model appears to perform better with out-of-sample data compared
