@@ -5,6 +5,8 @@
 It's difficult to conclusively say buy or sell, but given the results of these
 models, I would not recommend buying.  
 
+
+
 ![Trend](Images/trend_graph.png)
 ![Noise](Images/noise_graph.png)
 
@@ -12,6 +14,8 @@ The Hodrick-Prescott filter illustrates both trend and noise components of the
 price movement. The noise consistently sits between +$100 and -$100, topping 
 out at +/-$300.  However, it is difficult to ascertain a consistent upward 
 trend based on price history from 2015 to the present.
+
+
 
 
 ![ARMA](Images/arma_results.png)
@@ -24,6 +28,8 @@ slighly below 0.015 and levels off at -0.005.  The ARMA model may be the
 slightly better model--it's AIC, BIC, and HQIC are all slightly lower than 
 ARIMA's AIC, BIC, and HQIC.  On this evidence alone, the ARMA model suggests
 buying would result in a short-term profit.
+
+
 
 
 ![GARCH](Images/volatility.png)
