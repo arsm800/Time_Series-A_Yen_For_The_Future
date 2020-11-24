@@ -1,5 +1,12 @@
 # time_series-a_yen_for_the_future
 
+## Technologies Used
+
+* [Python](https://www.python.org)
+* [pandas](https://pandas.pydata.org)
+* [numPy](https://numpy.org)
+* [matplotlib](https://matplotlib.org)
+
 ## Time Series Analysis
 
 It's difficult to conclusively say buy or sell, but given the results of these
