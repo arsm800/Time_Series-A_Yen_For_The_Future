@@ -1,4 +1,4 @@
-# time_series-a_yen_for_the_future
+# Time Series - A Yen For The Future
 
 ## Technologies Used
 
