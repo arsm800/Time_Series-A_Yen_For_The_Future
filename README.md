@@ -1,5 +1,9 @@
 # Time Series - A Yen For The Future
 
+A time-series and linear regression analysis of the USD-Yen exchange rate.  The time-series forecast will include a Hodrick-Prescott decomposition,
+forecasting the returns and settle prices with ARMA and ARIMA models, respectively, and forecasting model volatility with GARCH.  The regresssion
+forecast will forecast returns based on a linear regression model.
+
 ## Technologies Used
 
 * [Python](https://www.python.org)
